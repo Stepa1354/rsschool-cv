@@ -16,7 +16,7 @@
 **Git**  
 
 # Code examples
-```<!DOCTYPE html>
+**<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -38,7 +38,7 @@
     scr = 'script.js'
 </script>
 
-</html> ```
+</html> **
 
 # Experience Work
 *I just started to study and, accordingly, there is no experience*  \
