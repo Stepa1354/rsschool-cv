@@ -19,7 +19,7 @@
 
 # Education
 **Higher College of Informatics will enter in September in novosibirsk
-Сertificate for Nine and Eleven class**  \
+Сertificate for Nine and Eleven class**
 
 # Language:
 English language (level.basic )  \
