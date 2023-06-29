@@ -14,32 +14,6 @@
 **Html** \
 **CSS**  \
 **Git**  
-
-# Code examples
- <!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>git</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-        }
-    </style>
-</head>
-
-<body>
-    <h1>hello git</h1>
-</body>
-<script>
-    scr = 'script.js'
-</script>
-
-</html> 
-
 # Experience Work
 *I just started to study and, accordingly, there is no experience*  
 
