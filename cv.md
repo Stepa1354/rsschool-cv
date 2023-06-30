@@ -18,9 +18,8 @@
 *I just started to study and, accordingly, there is no experience*  
 
 # Education
-**Higher College of Informatics will enter in September in novosibirsk
-Сertificate for Nine and Eleven class**
-
+**Higher College of Informatics in novosibirsk** \
+**Сertificate of secondary general education**  
 # Language:
 English language (level.basic )  \
 Russian language (level.Native)  
