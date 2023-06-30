@@ -17,6 +17,9 @@
 **CSS**  \
 **Git**  
 
+# Code examples
+
+```console.log('Hello world!')```
 # Experience Work
 
 *I just started to study and, accordingly, there is no experience*  
@@ -30,7 +33,3 @@
 
 English language (level.basic )  \
 Russian language (level.Native)  
-
-# Code examples
-
-```console.log('Hello world!')```
