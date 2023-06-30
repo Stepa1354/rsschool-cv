@@ -40,7 +40,7 @@ Russian language (level.Native)
 </head>
 
 <body>
-    <h1>hello git</h1>
+    <h1>hello Omen</h1>
 </body>
 <script>
     scr = 'script.js'
