@@ -17,7 +17,6 @@
 **CSS**  \
 **Git**  
 
-
 ##### Code examples
 
 ```console.log('Hello world!')```
@@ -27,24 +26,11 @@
 I just started to study and, accordingly, there is no experience  
 
 #### Education
-=======
-## Code examples
-
-```console.log('Hello world!')```
-
-### Experience Work
-
-I just started to study and, accordingly, there is no experience  
-
-## Education
 
 **Higher College of Informatics in novosibirsk** \
 **Сertificate of secondary general education**  
 
-
-=======
-### Language
-
+##### Language
 
 English language (level.basic )  \
 Russian language (level.Native)  
