@@ -1,5 +1,5 @@
 .about {
-    color: rgb(255, 255, 255);
+    color: rgb(241, 8, 8);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -72,4 +72,8 @@
 .godof {
     display: inline;
     color: rebeccapurple
+}
+
+.section {
+    padding: 0px 40px
 }
