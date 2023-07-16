@@ -11,15 +11,6 @@
     align-items: center;
 }
 
-.RSR {
-    display: inline-block;
-    width: 121px;
-    height: 45px;
-    background-image: url(img/rs_school_js.svg);
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-
 .com {
     color: rgb(0, 0, 0);
     font-style: italic;
@@ -68,11 +59,24 @@
     text-decoration: none;
 }
 
+.section {
+    padding: 0px 40px
+}
+
+.RSR {
+    display: inline-block;
+    width: 121px;
+    height: 45px;
+    background-image: url(img/rs_school_js.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
 .godof {
     display: inline;
     color: rebeccapurple
 }
 
-.section {
-    padding: 0px 40px
+.footer {
+    background-color: black;
 }
