@@ -55,8 +55,9 @@
     }
     
     .github {
-        color: white;
+        color: rgb(255, 0, 0);
         text-decoration: none;
+        font-size: 55cqmax;
     }
     
     .section {
@@ -78,6 +79,7 @@
         display: inline;
         color: rebeccapurple;
         position: relative;
+        font-size: 55cqmax;
     }
     
     .footer {
