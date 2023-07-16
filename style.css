@@ -83,5 +83,10 @@
     
     .footer {
         background-color: brown;
-        size: 120px;
+    }
+    
+    .footer-wrapper {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
     }
